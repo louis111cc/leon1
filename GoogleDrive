@@ -1,0 +1,13 @@
+# NAME: GoogleDrive
+# UPDATED: 2021-05-28
+# USER-AGENT: 3
+# DOMAIN-SUFFIX: 4
+# TOTAL: 8
+DOMAIN,WWW.googleapis.com
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
+USER-AGENT,*com.google.Drive*
+USER-AGENT,Google.Drive*
