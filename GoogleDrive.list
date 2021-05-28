@@ -3,7 +3,7 @@
 # USER-AGENT: 3
 # DOMAIN-SUFFIX: 4
 # TOTAL: 8
-DOMAIN,WWW.googleapis.com
+DOMAIN,www.googleapis.com
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,googledrive.com
